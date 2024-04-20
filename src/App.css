@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.blank{
+  color: red;
+}
+/* Dark mode styles */
+.dark-mode {
+  background-color: #121212; /* Dark background color */
+  color: #ffffff; /* Light text color */
+}
+
+/* Light mode styles */
+.light-mode {
+  background-color: #ffffff; /* Light background color */
+  color: #000000; /* Dark text color */
+}
